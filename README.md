@@ -13,7 +13,8 @@ To successfully complete this project, you will need to perform the following ta
 
 ### Task 1: Clone the Project Repository
 Start by cloning the project repository to your local environment. This will provide you with the necessary code and resources to begin your work.
-
+this is the original project link: https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git
+but I have cloned it on my local machine and pushed it again on new repo for a purpose of using it in the Cloud IDE this the link: https://github.com/Nooraldin2001/Final-Project-Emotion-Detector for my own repo 
 ### Task 2: Create an Emotion Detection Application
 Utilize the Watson NLP library to develop an emotion detection application. This application will analyze text input and identify the underlying emotions.
 
